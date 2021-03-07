@@ -15,7 +15,7 @@
 
 ### **Features**:
 ##### Currently the API can get the following details for a specific song in JSON format:
-- **Song Name**
+- **Song name**
 - **Singer Name**
 - **Album Name**
 - **Album URL**
